@@ -1,4 +1,3 @@
 ### Hi there 👋
-</br>
 
-![gopher](https://raw.githubusercontent.com/httpsecure/gophers/master/Doctor_Who_Gopher.png)
+![gopher](https://raw.githubusercontent.com/httpsecure/gophers/master/GOPHER_ROCKS.png)
