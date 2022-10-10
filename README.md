@@ -6,5 +6,6 @@
 
 ### Hi there 👋
 
--🦉 I’m looking to collaborate on learning partner
--📫 How to reach me: [Telegram](https://t.me/httpsecure)
+🦉 I’m looking to collaborate on learning partner
+
+📫 How to reach me: [Telegram](https://t.me/httpsecure)
